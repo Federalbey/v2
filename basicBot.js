@@ -247,10 +247,10 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
-            language: "english",
-            chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
-            scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+            botName: "Bay BOT",
+            language: "turkish",
+            chatLink: "https://rawgit.com/Federalbey/v2/master/lang/tr.json",
+            scriptLink: "https://rawgit.com/Federalbey/v2/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
